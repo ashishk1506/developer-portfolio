@@ -1,9 +1,9 @@
 import resume from '../assets/pdf/resume.pdf'
 
 export const headerData = {
-    name: 'Jane Doe',
-    title: "Web Developer",
-    desciption:"There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
-    image: 'https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/landingImg.png',
+    name: 'Ashish Kumar',
+    title: "Software Engineer",
+    desciption:"The sky stretched wide and empty, yet it was the swirling clouds that drew her in. A rich, unexpected green filled the air, signaling transformation. She could sense the winds of change stirring, and with each breath, she felt a surge of courage. In the face of the unknown, she reminded herself that every storm brings the promise of new beginnings.",
+    image: 'https://iplogger.com/25tKu5',
     resumePdf: resume
 }
